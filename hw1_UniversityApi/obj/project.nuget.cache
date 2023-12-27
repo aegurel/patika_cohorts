@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/K5Y4bdJ9/TQvY0Wg0KCruxml6OeA/NEJsCeEqyQ3h2lciYHGolSDxVWsU4gZZimAz51IgDAWMpr7fI3AfnV9w==",
+  "success": true,
+  "projectFilePath": "/Users/ahmetgurel/Desktop/ASP.NET/ptka_cohort_hw1/UniversityApi/UniversityApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmetgurel/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "/Users/ahmetgurel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ahmetgurel/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ahmetgurel/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ahmetgurel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ahmetgurel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ahmetgurel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
